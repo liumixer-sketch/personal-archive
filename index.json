@@ -1,7 +1,24 @@
 {
-  "generated": "2026-11-23T22:10:22+08:00",
-  "count": 7,
+  "generated": "2026-11-23T22:13:29+08:00",
+  "count": 8,
   "records": [
+    {
+      "id": "work-20261123-2213-archive-system-launch",
+      "type": "work",
+      "title": "个人档案系统落地：仓库与 skill 全部就绪",
+      "date": "2026-11-23T22:13:29+08:00",
+      "status": "active",
+      "tags": [
+        "架构",
+        "skill",
+        "自动化",
+        "里程碑"
+      ],
+      "project": "personal-archive",
+      "source_ai": "WorkBuddy",
+      "sensitivity": "normal",
+      "path": "work/projects/20261123-2213-archive-system-launch.md"
+    },
     {
       "id": "work-20261123-2209-skill-wrapper",
       "type": "work",

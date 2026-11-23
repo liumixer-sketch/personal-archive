@@ -1,14 +1,14 @@
 # 档案索引
 
 > 本文件由 `.archive/rebuild-index.mjs` 自动生成，**请勿手改**。
-> 最后更新：2026-11-23T22:10:22+08:00 · 共 **7** 条
+> 最后更新：2026-11-23T22:13:29+08:00 · 共 **8** 条
 
 ## 统计
 
 | 类型 | 数量 |
 |---|---:|
 | AI 使用记录 `ai-log` | 2 |
-| 工作档案 `work` | 2 |
+| 工作档案 `work` | 3 |
 | 生活档案 `life` | 1 |
 | 知识沉淀 `knowledge` | 2 |
 | 待分类 `inbox` | 0 |
@@ -20,10 +20,11 @@
 | 2026-11-23 | [关于 RAG 和微调怎么选](ai-log/2026/11/20261123-1418-chatgpt-rag-vs-finetune.md) | 未分类 | active |
 | 2026-11-23 | [与 WorkBuddy 设计个人档案系统](ai-log/2026/11/20261123-1416-archive-system-design.md) | ai, skill, 架构 | active |
 
-## 工作档案 `work`（2）
+## 工作档案 `work`（3）
 
 | 日期 | 标题 | 标签 | 状态 |
 |---|---|---|---|
+| 2026-11-23 | [个人档案系统落地：仓库与 skill 全部就绪](work/projects/20261123-2213-archive-system-launch.md) | 架构, skill, 自动化, 里程碑 | active |
 | 2026-11-23 | [档案系统封装为 WorkBuddy skill](work/projects/20261123-2209-skill-wrapper.md) | skill, 自动化, 架构 | active |
 | 2026-11-23 | [档案系统架构决策：单仓库 + 规范外置 + 索引自动生成](work/decisions/20261123-1416-archive-arch-decision.md) | 工作, 决策, 架构 | active |
 
@@ -42,8 +43,8 @@
 
 ## 按项目
 
-- **personal-archive**（4）— 档案系统封装为 WorkBuddy skill
+- **personal-archive**（5）— 个人档案系统落地：仓库与 skill 全部就绪
 
 ## 标签
 
-`架构`×4 · `skill`×2 · `方法论`×2 · `ai`×2 · `自动化`×1 · `未分类`×1 · `git`×1 · `生活`×1 · `习惯`×1 · `工作`×1 · `决策`×1
+`架构`×5 · `skill`×3 · `自动化`×2 · `方法论`×2 · `ai`×2 · `里程碑`×1 · `未分类`×1 · `git`×1 · `生活`×1 · `习惯`×1 · `工作`×1 · `决策`×1
