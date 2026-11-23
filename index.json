@@ -1,7 +1,22 @@
 {
-  "generated": "2026-11-23T22:13:29+08:00",
-  "count": 8,
+  "generated": "2026-11-23T22:24:21+08:00",
+  "count": 9,
   "records": [
+    {
+      "id": "life-20261123-2224-breakfast-egg-milk",
+      "type": "life",
+      "title": "每天早餐两个鸡蛋一盒牛奶",
+      "date": "2026-11-23T22:24:21+08:00",
+      "status": "active",
+      "tags": [
+        "健康",
+        "饮食"
+      ],
+      "project": "",
+      "source_ai": "Kimi",
+      "sensitivity": "normal",
+      "path": "life/health/20261123-2224-breakfast-egg-milk.md"
+    },
     {
       "id": "work-20261123-2213-archive-system-launch",
       "type": "work",
