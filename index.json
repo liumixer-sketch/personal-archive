@@ -1,7 +1,23 @@
 {
-  "generated": "2026-11-23T14:18:12+08:00",
-  "count": 6,
+  "generated": "2026-11-23T22:09:54+08:00",
+  "count": 7,
   "records": [
+    {
+      "id": "work-20261123-2209-skill-wrapper",
+      "type": "work",
+      "title": "档案系统封装为 WorkBuddy skill",
+      "date": "2026-11-23T22:09:54+08:00",
+      "status": "active",
+      "tags": [
+        "skill",
+        "自动化",
+        "架构"
+      ],
+      "project": "personal-archive",
+      "source_ai": "WorkBuddy",
+      "sensitivity": "normal",
+      "path": "work/projects/20261123-2209-skill-wrapper.md"
+    },
     {
       "id": "ai-log-20261123-1418-chatgpt-rag-vs-finetune",
       "type": "ai-log",
