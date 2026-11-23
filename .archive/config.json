@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "repoName": "personal-archive",
+  "defaultSourceAI": "WorkBuddy",
+  "remote": "origin",
+  "branch": "main",
+  "autoPush": true,
+  "pushOnFailure": "warn",
+  "autoRebuildIndex": true,
+  "commitMessagePrefix": "archive",
+  "note": "autoPush=false 时只本地提交不推送，等你手动 push"
+}

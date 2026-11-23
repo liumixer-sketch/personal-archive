@@ -1,0 +1,98 @@
+{
+  "generated": "2026-11-23T14:18:12+08:00",
+  "count": 6,
+  "records": [
+    {
+      "id": "ai-log-20261123-1418-chatgpt-rag-vs-finetune",
+      "type": "ai-log",
+      "title": "关于 RAG 和微调怎么选",
+      "date": "2026-11-23T14:18:12+08:00",
+      "status": "active",
+      "tags": [
+        "未分类"
+      ],
+      "project": "",
+      "source_ai": "ChatGPT",
+      "sensitivity": "normal",
+      "path": "ai-log/2026/11/20261123-1418-chatgpt-rag-vs-finetune.md"
+    },
+    {
+      "id": "knowledge-20261123-1418-git-commit-message",
+      "type": "knowledge",
+      "title": "Git 提交信息规范小结",
+      "date": "2026-11-23T14:18:12+08:00",
+      "status": "active",
+      "tags": [
+        "git",
+        "方法论"
+      ],
+      "project": "",
+      "source_ai": "Claude",
+      "sensitivity": "normal",
+      "path": "knowledge/notes/20261123-1418-git-commit-message.md"
+    },
+    {
+      "id": "knowledge-20261123-1416-cross-ai-format-portability",
+      "type": "knowledge",
+      "title": "跨 AI 档案统一的核心是让格式脱离产品",
+      "date": "2026-11-23T14:16:47+08:00",
+      "status": "active",
+      "tags": [
+        "方法论",
+        "ai",
+        "架构"
+      ],
+      "project": "personal-archive",
+      "source_ai": "WorkBuddy",
+      "sensitivity": "normal",
+      "path": "knowledge/notes/20261123-1416-cross-ai-format-portability.md"
+    },
+    {
+      "id": "life-20261123-1416-start-archive-habit",
+      "type": "life",
+      "title": "开始正经做个人档案管理",
+      "date": "2026-11-23T14:16:47+08:00",
+      "status": "active",
+      "tags": [
+        "生活",
+        "习惯"
+      ],
+      "project": "",
+      "source_ai": "Human",
+      "sensitivity": "normal",
+      "path": "life/journal/20261123-1416-start-archive-habit.md"
+    },
+    {
+      "id": "work-20261123-1416-archive-arch-decision",
+      "type": "work",
+      "title": "档案系统架构决策：单仓库 + 规范外置 + 索引自动生成",
+      "date": "2026-11-23T14:16:47+08:00",
+      "status": "active",
+      "tags": [
+        "工作",
+        "决策",
+        "架构"
+      ],
+      "project": "personal-archive",
+      "source_ai": "WorkBuddy",
+      "sensitivity": "normal",
+      "path": "work/decisions/20261123-1416-archive-arch-decision.md"
+    },
+    {
+      "id": "ai-log-20261123-1416-archive-system-design",
+      "type": "ai-log",
+      "title": "与 WorkBuddy 设计个人档案系统",
+      "date": "2026-11-23T14:16:33+08:00",
+      "status": "active",
+      "tags": [
+        "ai",
+        "skill",
+        "架构"
+      ],
+      "project": "personal-archive",
+      "source_ai": "WorkBuddy",
+      "sensitivity": "normal",
+      "path": "ai-log/2026/11/20261123-1416-archive-system-design.md"
+    }
+  ]
+}
