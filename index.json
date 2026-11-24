@@ -1,7 +1,23 @@
 {
-  "generated": "2026-11-23T22:24:21+08:00",
-  "count": 9,
+  "generated": "2026-11-24T09:01:16+08:00",
+  "count": 10,
   "records": [
+    {
+      "id": "inbox-20261124-0901-parenting-project-conclusions",
+      "type": "inbox",
+      "title": "育儿项目结论笔记（待归类）",
+      "date": "2026-11-24T09:01:01+08:00",
+      "status": "active",
+      "tags": [
+        "育儿",
+        "婴儿睡眠",
+        "双语启蒙"
+      ],
+      "project": "育儿",
+      "source_ai": "WorkBuddy",
+      "sensitivity": "normal",
+      "path": "inbox/20261124-0901-parenting-project-conclusions.md"
+    },
     {
       "id": "life-20261123-2224-breakfast-egg-milk",
       "type": "life",
